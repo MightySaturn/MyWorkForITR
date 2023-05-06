@@ -1,0 +1,8 @@
+C:\Users\Andrey\source\repos\CrossingLinesSolver\CrossingLinesSolver\bin\Debug\CrossingLinesSolver.exe.config
+C:\Users\Andrey\source\repos\CrossingLinesSolver\CrossingLinesSolver\bin\Debug\CrossingLinesSolver.exe
+C:\Users\Andrey\source\repos\CrossingLinesSolver\CrossingLinesSolver\bin\Debug\CrossingLinesSolver.pdb
+C:\Users\Andrey\source\repos\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\CrossingLinesSolver.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\CrossingLinesSolver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrey\source\repos\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\CrossingLinesSolver.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\CrossingLinesSolver.exe
+C:\Users\Andrey\source\repos\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\CrossingLinesSolver.pdb

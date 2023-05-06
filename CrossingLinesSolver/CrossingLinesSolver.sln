@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossingLinesTaskSolver", "ConsoleApp1\CrossingLinesTaskSolver.csproj", "{986B7520-5C5F-4327-9F83-BA42FEC55983}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossingLinesSolver", "CrossingLinesSolver\CrossingLinesSolver.csproj", "{91EC640D-6E4A-4072-AA6C-8E08F0065FFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{986B7520-5C5F-4327-9F83-BA42FEC55983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{986B7520-5C5F-4327-9F83-BA42FEC55983}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{986B7520-5C5F-4327-9F83-BA42FEC55983}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{986B7520-5C5F-4327-9F83-BA42FEC55983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EC640D-6E4A-4072-AA6C-8E08F0065FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EC640D-6E4A-4072-AA6C-8E08F0065FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EC640D-6E4A-4072-AA6C-8E08F0065FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EC640D-6E4A-4072-AA6C-8E08F0065FFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {86896AD9-2EB9-43D1-9E2E-7361A49A7BB6}
+		SolutionGuid = {412A92C0-6F8B-4601-A760-C0B6663918CA}
 	EndGlobalSection
 EndGlobal
