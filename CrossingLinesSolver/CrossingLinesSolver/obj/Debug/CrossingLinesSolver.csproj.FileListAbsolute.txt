@@ -6,3 +6,11 @@ C:\Users\Andrey\source\repos\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\C
 C:\Users\Andrey\source\repos\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\CrossingLinesSolver.csproj.CoreCompileInputs.cache
 C:\Users\Andrey\source\repos\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\CrossingLinesSolver.exe
 C:\Users\Andrey\source\repos\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\CrossingLinesSolver.pdb
+E:\MyWorkForITR\CrossingLinesSolver\CrossingLinesSolver\bin\Debug\CrossingLinesSolver.exe.config
+E:\MyWorkForITR\CrossingLinesSolver\CrossingLinesSolver\bin\Debug\CrossingLinesSolver.exe
+E:\MyWorkForITR\CrossingLinesSolver\CrossingLinesSolver\bin\Debug\CrossingLinesSolver.pdb
+E:\MyWorkForITR\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\CrossingLinesSolver.csproj.AssemblyReference.cache
+E:\MyWorkForITR\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\CrossingLinesSolver.csproj.SuggestedBindingRedirects.cache
+E:\MyWorkForITR\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\CrossingLinesSolver.csproj.CoreCompileInputs.cache
+E:\MyWorkForITR\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\CrossingLinesSolver.exe
+E:\MyWorkForITR\CrossingLinesSolver\CrossingLinesSolver\obj\Debug\CrossingLinesSolver.pdb
